@@ -1,0 +1,14 @@
+{
+    "name": "angular-cordova-template",
+    "version": "1.0.0",
+    "description": "This is a template for an hello world angular-material webapp with cordova .",
+    "repository": "github:steppe87/angular-cordova-template",
+    "bugs": "https://github.com/steppe87/angular-cordova-template/issues",
+    "main": "index.js",
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova:template"
+    ],
+    "author": "Stephan Müller",
+    "license": "Apache-2.0"
+}
