@@ -7,3 +7,7 @@
 
 Update der Angular-Version inkl. Angular-Material
 - `ng update @angular/animations @angular/cdk @angular/common @angular/compiler @angular/core @angular/forms @angular/material @angular/platform-browser @angular/platform-browser-dynamic @angular/router`
+
+## Icons
+
+https://material.io/resources/icons/?style=baseline
