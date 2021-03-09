@@ -1,0 +1,15 @@
+// resetting predefined styles (such as padding, margin e.g.)
+@import 'reset-style';
+
+// You can add global styles to this file, and also import other style files
+// variables
+// ---------------------------------------------------
+@import 'variables';
+
+// mixins
+// ---------------------------------------------------
+
+// components
+// ---------------------------------------------------
+@import 'components/layout';
+@import 'components/main';

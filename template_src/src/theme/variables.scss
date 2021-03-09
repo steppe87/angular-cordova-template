@@ -1,0 +1,33 @@
+// fonts - text
+$font-size-base: 13px;
+$font-size-s:    11px;
+$font-size-m:    14px;
+$font-size-l:    16px;
+$font-size-xl:   20px;
+$font-size-xxl:  24px;
+
+$line-height-base: 18px;
+$line-height-s:    16px;
+$line-height-m:    20px;
+$line-height-l:    24px;
+$line-height-xl:   24px;
+// $line-height-xxl:  28px;
+
+// fonts -headlines
+$hl-font-size-s:    10px;
+$hl-font-size-m:    16px;
+$hl-font-size-l:    18px;
+$hl-font-size-xl:   20px;
+$hl-font-size-xxl:  24px;
+
+$hl-line-height-s:    14px;
+$hl-line-height-m:    20px;
+$hl-line-height-l:    22px;
+$hl-line-height-xl:   24px;
+$hl-line-height-xxl:  28px;
+
+
+$padding-content-half: 8px;
+$padding-content: 16px;
+$padding-content-one-and-half: $padding-content + $padding-content-half; // 24px
+$padding-content-double: $padding-content + $padding-content; // 32px

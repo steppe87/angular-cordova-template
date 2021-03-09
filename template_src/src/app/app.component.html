@@ -1,12 +1,14 @@
 <mat-toolbar color="primary">
-  <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+  <button mat-icon-button class="menu-button" aria-label="Example icon-button with menu icon">
     <mat-icon>menu</mat-icon>
   </button>
   <span>Angular with Cordova App Template</span>
-  <span class="example-spacer"></span>
-  <button mat-icon-button class="settings-icon" aria-label="settings">
+  <span class="spacer"></span>
+  <button mat-icon-button class="settings-button" aria-label="settings">
     <mat-icon>settings</mat-icon>
   </button>
 </mat-toolbar>
 
-<router-outlet></router-outlet>
+<div class="content-wrapper">
+  <router-outlet></router-outlet>
+</div>

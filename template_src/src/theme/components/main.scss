@@ -1,0 +1,14 @@
+@import './../variables';
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.content-wrapper {
+  padding: $padding-content;
+}
