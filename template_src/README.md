@@ -5,7 +5,7 @@
 1. Suchen & Ersetzen von `Template for Angular with Cordova` zu dem sprechenden Projekt-Namen
 2. Suchen & Ersetzen von `angular-cordova-template` zum Arbeitsnamen des Projektes
 3. Suchen & Ersetzen von `de.template.angularcordova` zur neuen App-Id
-4. In dem Ordner `app-assets` das `icon.png` und `splash.png` ersetztn
+4. In dem Ordner `app-assets` das `icon.png` und `splash.png` ersetzen
 
 Update der Angular-Version inkl. Angular-Material
 - `ng update @angular/animations @angular/cdk @angular/common @angular/compiler @angular/core @angular/forms @angular/material @angular/platform-browser @angular/platform-browser-dynamic @angular/router`

@@ -1,4 +1,4 @@
-# Template for starting fast a Angular-Cordova-APP
+# Template for starting fast an Angular-Cordova-APP
 
 This Template includes:
 - Angular Material
